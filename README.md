@@ -1,6 +1,7 @@
 -## Olá, meu nome é <strong>Ramon Alves!</strong>
 
 > Estudante de Análise e Desenvolvimento de Sistemas e apaixonado por programação, atualmente estou em transição de carreira.
+
 🔭 Iniciei no mundo dev aperfeiçoando minhas habilidades em desenvolvimento web Front-end com alguns projetinhos, ultilizando HTML5| CSS|JavaScript. 
 
 💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
@@ -17,4 +18,4 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?marquesramon92=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?marquesramon92=maarquesramon92&show_icons=true)
