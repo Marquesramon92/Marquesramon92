@@ -1,9 +1,7 @@
 ## 💜 Olá, meu nome é <strong>{Ramon Alves}!</strong>
 
-> Estou atualmente em transição de carreira para a área da programação! 
-.
+> Estudante de Análise e Desenvolvimento de Sistemas, estou atualmente começando minha carreira como desenvolvedor. Iniciei minha jornada aprendendo HTML5 e CSS.  Atualmente estou me atualizando em JavaScript, logo teremos alguns recursos baseados nos estudos. 
 
-🔭 Estudante de Análise e Desenvolvimento de Sistemas, iniciei da minha jornada como desenvolvedor, aprendendo HTML5 e CSS; e atualmente me atualizando em JavaScript, logo teremos alguns recursos baseados nos estudos. 
 ----
 
 ## 🚀 Minhas Skills
@@ -15,7 +13,7 @@
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marquesramon92&show_icons=true)
 
 <p align="left">
   💌 Entre em contato comigo: ⤵️
