@@ -1,25 +1,21 @@
 ## 💜 Olá, meu nome é <strong>{Ramon Alves}!</strong>
 
-> Faça uma breve aprensentação sobre você e a sua área.
+> Estou atualmente em transição de carreira para a área da programação! 
+.
 
-🔭 Estudante de Análise e Desenvolvimento de Sistemas, atualmente estou em transição de carreira para a área da programação!
-
+🔭 Estudante de Análise e Desenvolvimento de Sistemas, iniciei da minha jornada como desenvolvedor, aprendendo HTML5 e CSS; e atualmente me atualizando em JavaScript, logo teremos alguns recursos baseados nos estudos. 
 ----
 
 ## 🚀 Minhas Skills
 
-<code><img height="32" src="https://cdn.iconscout.com/icon/free/png-512/c-programming-569564.png" alt="c"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-
-
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
 
 ---
 
 ## ⭐ Informações sobre minha conta GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?marquesramon92)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pmarcelojr&show_icons=true)
 
 <p align="left">
   💌 Entre em contato comigo: ⤵️
