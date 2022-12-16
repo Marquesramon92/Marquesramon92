@@ -1,6 +1,6 @@
-## 💜 Olá, meu nome é <strong>{Ramon Alves}!</strong>
+## 💜 Olá, meu nome é <strong>Ramon Alves!</strong>
 
-> Estudante de Análise e Desenvolvimento de Sistemas, estou começando minha carreira como desenvolvedor. Iniciei minha jornada aprendendo HTML5 e CSS.  Atualmente estou me atualizando em JavaScript, logo teremos alguns recursos baseados nos estudos. 
+> Estudante de Análise e Desenvolvimento de Sistemas, estou em transição de carreira para desenvolvedor. Iniciei minha jornada aprendendo desenvolvimento web Front-end com HTML5, CSS e JavaScript. Atualmente estou me atualizando em React, logo teremos alguns recursos baseados nos estudos. 
 
 ----
 
